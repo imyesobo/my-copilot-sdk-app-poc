@@ -4,7 +4,7 @@ Smallest possible proof of concept for validating whether a local Node.js applic
 
 ## Source code
 
-- CLI entrypoint: `/home/runner/work/my-copilot-sdk-app-poc/my-copilot-sdk-app-poc/src/cli.ts`
+- CLI entrypoint: `src/cli.ts`
 
 ## What this does
 
